@@ -1,0 +1,100 @@
+{
+  "format": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "name": "@gh-nitrate-lang/std",
+  "description": "The Krabby Patty secret formula",
+  "license": "LGPL-2.1",
+  "category": "std",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "contacts": [],
+  "platforms": {
+    "allow": [
+      "*"
+    ],
+    "deny": [
+      "*"
+    ]
+  },
+  "optimization": {
+    "rapid": {
+      "switch": {
+        "alpha": [
+          "-O0"
+        ],
+        "beta": [
+          "-O0"
+        ],
+        "gamma": [
+          "-O0"
+        ],
+        "llvm": [
+          "-O1"
+        ],
+        "lto": [
+          "-O0"
+        ],
+        "runtime": [
+          "-O0"
+        ]
+      }
+    },
+    "debug": {
+      "switch": {
+        "alpha": [
+          "-O2"
+        ],
+        "beta": [
+          "-O2"
+        ],
+        "gamma": [
+          "-O2"
+        ],
+        "llvm": [
+          "-O3"
+        ],
+        "lto": [
+          "-O0"
+        ],
+        "runtime": [
+          "-O1"
+        ]
+      }
+    },
+    "release": {
+      "switch": {
+        "alpha": [
+          "-O3"
+        ],
+        "beta": [
+          "-O3"
+        ],
+        "gamma": [
+          "-O3"
+        ],
+        "llvm": [
+          "-O3"
+        ],
+        "lto": [
+          "-O3"
+        ],
+        "runtime": [
+          "-O3"
+        ]
+      }
+    },
+    "requirements": {
+      "min-free-cores": 1,
+      "min-free-memory": 1048576,
+      "min-free-storage": 1048576
+    }
+  },
+  "dependencies": [],
+  "blockchain": []
+}

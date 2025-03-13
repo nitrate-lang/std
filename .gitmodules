@@ -1,0 +1,44 @@
+[submodule "src/algorithm"]
+	path = src/algorithm
+	url = https://github.com/nitrate-lang/algorithm
+	branch = main
+[submodule "src/filesystem"]
+	path = src/filesystem
+	url = https://github.com/nitrate-lang/filesystem
+	branch = main
+[submodule "src/format"]
+	path = src/format
+	url = https://github.com/nitrate-lang/format
+	branch = main
+[submodule "src/memory"]
+	path = src/memory
+	url = https://github.com/nitrate-lang/memory
+	branch = main
+[submodule "src/messure"]
+	path = src/messure
+	url = https://github.com/nitrate-lang/messure
+	branch = main
+[submodule "src/protocol"]
+	path = src/protocol
+	url = https://github.com/nitrate-lang/protocol
+	branch = main
+[submodule "src/runtime"]
+	path = src/runtime
+	url = https://github.com/nitrate-lang/runtime
+	branch = main
+[submodule "src/structure"]
+	path = src/structure
+	url = https://github.com/nitrate-lang/structure
+	branch = main
+[submodule "src/system"]
+	path = src/system
+	url = https://github.com/nitrate-lang/system
+	branch = main
+[submodule "src/task"]
+	path = src/task
+	url = https://github.com/nitrate-lang/task
+	branch = main
+[submodule "src/trace"]
+	path = src/trace
+	url = https://github.com/nitrate-lang/trace
+	branch = main
