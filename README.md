@@ -1,4 +1,4 @@
-# Std
+# Standard Library
 
 ![](https://img.shields.io/badge/license-LGPL--2.1-b3e32d.svg)
 ![](https://img.shields.io/badge/package_kind-stdlib-cyan.svg)
@@ -12,7 +12,7 @@ of living, correct, and trustable software.
 
 ## Table of Contents
 
-- [Std](#std)
+- [Standard Library](#standard-library)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
